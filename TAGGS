@@ -1,0 +1,7 @@
+return {
+	["AstralVaspe"] = {
+		TagText = "cheaterrrrr",
+		TagColor = Color3.fromRGB(255,0,0)
+	},
+	}
+}
